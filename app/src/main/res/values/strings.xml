@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">ScreenPortrait</string>
+  <string name="hello_world">Successfully rotated</string>
+</resources>
